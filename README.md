@@ -23,13 +23,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erdincturk&layout=compact&hide=html)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erdincturk&show_icons=true&theme=default)
-
----
-
 ### 📌 Quick Timeline
 
 ```text
