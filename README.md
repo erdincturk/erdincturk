@@ -22,7 +22,13 @@
 - Deployment: `Jetson`, `ESP32`, `Arduino`
 
 ---
+### 🎖 Certifications
 
+| [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/61367965" alt="TensorFlow Developer Certificate" width="120"/>](https://pdf.credential.net/ppag4jvr_1722887806162.pdf) | [<img src="https://images.credly.com/size/340x340/images/dfcd0d51-de72-4e1c-8f8c-11dad7711124/image.png" alt="DeepLearning.AI TensorFlow Developer Specialization" width="120"/>](https://www.credly.com/badges/77bd1066-24fb-4c9b-84a7-341d11453f3b/public_url) |
+|:--|:--|
+| TensorFlow Developer Certificate | DeepLearning.AI Specialization |
+
+---
 ### 📌 Quick Timeline
 
 ```text
